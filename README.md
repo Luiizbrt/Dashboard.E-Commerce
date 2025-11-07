@@ -23,7 +23,7 @@ O painel mostra:
 
 ## 🧾 **Fonte de Dados**
 
-- **Arquivo:** `dataset_varejo_online_2025.csv`  
+- **Arquivo:** `dataset_varejo_online_2025_utf8sig.csv`  
 - **Período:** Janeiro a Dezembro de 2025  
 - **Campos Principais:**
   - `Data_Venda`
